@@ -1,0 +1,11 @@
+loan_id,loan_date,campus,item_category
+1011,2025-01-02,Online,headphones
+1012,2025-01-02,Online,camera
+1013,2025-01-04,Online,headphones
+1014,2025-01-04,Online,laptop
+1015,2025-01-10,Minneapolis,camera
+1016,2025-01-10,Online,camera
+1017,2025-01-13,StPaul,camera
+1018,2025-01-18,StPaul,headphones
+1019,2025-01-19,StPaul,headphones
+1020,2025-01-21,StPaul,projector

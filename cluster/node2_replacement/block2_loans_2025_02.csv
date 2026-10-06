@@ -1,0 +1,11 @@
+loan_id,loan_date,campus,item_category
+1021,2025-02-04,Online,tablet
+1022,2025-02-06,Minneapolis,camera
+1023,2025-02-07,Minneapolis,headphones
+1024,2025-02-10,StPaul,camera
+1025,2025-02-10,Online,laptop
+1026,2025-02-14,Minneapolis,tablet
+1027,2025-02-16,Minneapolis,tablet
+1028,2025-02-19,Minneapolis,projector
+1029,2025-02-19,Minneapolis,headphones
+1030,2025-02-23,StPaul,laptop
